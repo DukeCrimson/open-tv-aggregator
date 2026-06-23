@@ -1,0 +1,181 @@
+{
+  "updated_at": "2026-06-23T07:22:20.434716+00:00",
+  "total": 8,
+  "online": 7,
+  "offline": 1,
+  "playlist_count": 7,
+  "failures": [
+    {
+      "id": "taiwanplus-live",
+      "name": "TaiwanPlus Live",
+      "source_type": "hls",
+      "url": "https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8",
+      "resolved_url": "https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8",
+      "reason": "HTTP status 403",
+      "http_status": 403,
+      "checked_at": "2026-06-23T07:22:07.911238+00:00"
+    }
+  ],
+  "channels": [
+    {
+      "channel": {
+        "id": "taiwanplus-live",
+        "name": "TaiwanPlus Live",
+        "group": "Taiwan",
+        "country": "TW",
+        "source_type": "hls",
+        "url": "https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8",
+        "epg_id": "taiwanplus.tw",
+        "allow_offline": false
+      },
+      "resolved_url": "https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8",
+      "status": "offline",
+      "http_status": 403,
+      "resolution_error": null,
+      "validation_error": "HTTP status 403",
+      "failure_reason": "HTTP status 403",
+      "checked_at": "2026-06-23T07:22:07.911238+00:00",
+      "included_in_playlist": false
+    },
+    {
+      "channel": {
+        "id": "dw-news",
+        "name": "DW News",
+        "group": "News",
+        "country": "DE",
+        "source_type": "hls",
+        "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8",
+        "epg_id": "dw-news.de",
+        "allow_offline": false
+      },
+      "resolved_url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8",
+      "status": "online",
+      "http_status": 200,
+      "resolution_error": null,
+      "validation_error": null,
+      "failure_reason": null,
+      "checked_at": "2026-06-23T07:22:09.553590+00:00",
+      "included_in_playlist": true
+    },
+    {
+      "channel": {
+        "id": "france24-english",
+        "name": "France 24 English",
+        "group": "News",
+        "country": "FR",
+        "source_type": "hls",
+        "url": "https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_2300.m3u8",
+        "epg_id": "france24-english.fr",
+        "allow_offline": false
+      },
+      "resolved_url": "https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_2300.m3u8",
+      "status": "online",
+      "http_status": 200,
+      "resolution_error": null,
+      "validation_error": null,
+      "failure_reason": null,
+      "checked_at": "2026-06-23T07:22:10.265852+00:00",
+      "included_in_playlist": true
+    },
+    {
+      "channel": {
+        "id": "nhk-world-japan",
+        "name": "NHK World Japan",
+        "group": "Asia",
+        "country": "JP",
+        "source_type": "hls",
+        "url": "https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8",
+        "epg_id": "nhk-world.jp",
+        "allow_offline": false
+      },
+      "resolved_url": "https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8",
+      "status": "online",
+      "http_status": 200,
+      "resolution_error": null,
+      "validation_error": null,
+      "failure_reason": null,
+      "checked_at": "2026-06-23T07:22:11.133767+00:00",
+      "included_in_playlist": true
+    },
+    {
+      "channel": {
+        "id": "cna-singapore",
+        "name": "CNA Singapore",
+        "group": "Asia",
+        "country": "SG",
+        "source_type": "hls",
+        "url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8",
+        "epg_id": "cna.sg",
+        "allow_offline": false
+      },
+      "resolved_url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8",
+      "status": "online",
+      "http_status": 200,
+      "resolution_error": null,
+      "validation_error": null,
+      "failure_reason": null,
+      "checked_at": "2026-06-23T07:22:14.517068+00:00",
+      "included_in_playlist": true
+    },
+    {
+      "channel": {
+        "id": "bloomberg-tv-us",
+        "name": "Bloomberg TV US",
+        "group": "News",
+        "country": "US",
+        "source_type": "hls",
+        "url": "https://bloomberg.com/media-manifest/streams/us.m3u8",
+        "epg_id": "bloomberg-tv.us",
+        "allow_offline": false
+      },
+      "resolved_url": "https://bloomberg.com/media-manifest/streams/us.m3u8",
+      "status": "online",
+      "http_status": 200,
+      "resolution_error": null,
+      "validation_error": null,
+      "failure_reason": null,
+      "checked_at": "2026-06-23T07:22:15.410386+00:00",
+      "included_in_playlist": true
+    },
+    {
+      "channel": {
+        "id": "aljazeera-english",
+        "name": "Al Jazeera English",
+        "group": "Global",
+        "country": "QA",
+        "source_type": "hls",
+        "url": "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8",
+        "epg_id": "aljazeera-english.qa",
+        "allow_offline": false
+      },
+      "resolved_url": "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8",
+      "status": "online",
+      "http_status": 200,
+      "resolution_error": null,
+      "validation_error": null,
+      "failure_reason": null,
+      "checked_at": "2026-06-23T07:22:16.918813+00:00",
+      "included_in_playlist": true
+    },
+    {
+      "channel": {
+        "id": "arirang-tv",
+        "name": "Arirang TV",
+        "group": "Asia",
+        "country": "KR",
+        "source_type": "hls",
+        "url": "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "epg_id": "arirang-tv.kr",
+        "allow_offline": false
+      },
+      "resolved_url": "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+      "status": "online",
+      "http_status": 200,
+      "resolution_error": null,
+      "validation_error": null,
+      "failure_reason": null,
+      "checked_at": "2026-06-23T07:22:19.176608+00:00",
+      "included_in_playlist": true
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+name: Update playlist
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install -r requirements.txt
+
+      - name: Build playlist and EPG
+        run: python -m src.cli build
+
+      - name: Commit dist output
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dist/playlist.m3u dist/epg.xml dist/report.json
+          if git diff --cached --quiet; then
+            echo "No dist changes to commit."
+          else
+            git commit -m "Update generated playlist"
+            git push
+          fi
+

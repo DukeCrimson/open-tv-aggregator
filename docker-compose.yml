@@ -1,0 +1,8 @@
+services:
+  open-tv-aggregator:
+    build: .
+    command: python -m src.cli build
+    volumes:
+      - ./config:/app/config:ro
+      - ./dist:/app/dist
+

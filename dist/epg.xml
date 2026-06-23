@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv generator-info-name="open-tv-aggregator" generator-info-url="https://github.com/">
+  <channel id="dw-news.de">
+    <display-name>DW News</display-name>
+  </channel>
+  <programme start="20260623070000 +0000" stop="20260623130000 +0000" channel="dw-news.de">
+    <title lang="en">Live Programming</title>
+    <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
+  </programme>
+  <programme start="20260623130000 +0000" stop="20260623190000 +0000" channel="dw-news.de">
+    <title lang="en">Live Programming</title>
+    <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
+  </programme>
+  <programme start="20260623190000 +0000" stop="20260624010000 +0000" channel="dw-news.de">
+    <title lang="en">Live Programming</title>
+    <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
+  </programme>
+  <programme start="20260624010000 +0000" stop="20260624070000 +0000" channel="dw-news.de">
+    <title lang="en">Live Programming</title>
+    <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
+  </programme>
+  <channel id="france24-english.fr">
+    <display-name>France 24 English</display-name>
+  </channel>
+  <programme start="20260623070000 +0000" stop="20260623130000 +0000" channel="france24-english.fr">
+    <title lang="en">Live Programming</title>
+    <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
+  </programme>
+  <programme start="20260623130000 +0000" stop="20260623190000 +0000" channel="france24-english.fr">
+    <title lang="en">Live Programming</title>
+    <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
+  </programme>
+  <programme start="20260623190000 +0000" stop="20260624010000 +0000" channel="france24-english.fr">
+    <title lang="en">Live Programming</title>
+    <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
+  </programme>
+  <programme start="20260624010000 +0000" stop="20260624070000 +0000" channel="france24-english.fr">
+    <title lang="en">Live Programming</title>
+    <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
+  </programme>
+  <channel id="nhk-world.jp">
+    <display-name>NHK World Japan</display-name>
+  </channel>
+  <programme start="20260623070000 +0000" stop="20260623130000 +0000" channel="nhk-world.jp">
+    <title lang="en">Live Programming</title>
+    <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
+  </programme>
+  <programme start="20260623130000 +0000" stop="20260623190000 +0000" channel="nhk-world.jp">
+    <title lang="en">Live Programming</title>
+    <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
+  </programme>
+  <programme start="20260623190000 +0000" stop="20260624010000 +0000" channel="nhk-world.jp">
+    <title lang="en">Live Programming</title>
+    <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
+  </programme>
+  <programme start="20260624010000 +0000" stop="20260624070000 +0000" channel="nhk-world.jp">
+    <title lang="en">Live Programming</title>
+    <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
+  </programme>
+  <channel id="cna.sg">
+    <display-name>CNA Singapore</display-name>
+  </channel>
+  <programme start="20260623070000 +0000" stop="20260623130000 +0000" channel="cna.sg">
+    <title lang="en">Live Programming</title>
+    <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
+  </programme>
+  <programme start="20260623130000 +0000" stop="20260623190000 +0000" channel="cna.sg">
+    <title lang="en">Live Programming</title>
+    <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
+  </programme>
+  <programme start="20260623190000 +0000" stop="20260624010000 +0000" channel="cna.sg">
+    <title lang="en">Live Programming</title>
+    <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
+  </programme>
+  <programme start="20260624010000 +0000" stop="20260624070000 +0000" channel="cna.sg">
+    <title lang="en">Live Programming</title>
+    <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
+  </programme>
+  <channel id="bloomberg-tv.us">
+    <display-name>Bloomberg TV US</display-name>
+  </channel>
+  <programme start="20260623070000 +0000" stop="20260623130000 +0000" channel="bloomberg-tv.us">
+    <title lang="en">Live Programming</title>
+    <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
+  </programme>
+  <programme start="20260623130000 +0000" stop="20260623190000 +0000" channel="bloomberg-tv.us">
+    <title lang="en">Live Programming</title>
+    <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
+  </programme>
+  <programme start="20260623190000 +0000" stop="20260624010000 +0000" channel="bloomberg-tv.us">
+    <title lang="en">Live Programming</title>
+    <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
+  </programme>
+  <programme start="20260624010000 +0000" stop="20260624070000 +0000" channel="bloomberg-tv.us">
+    <title lang="en">Live Programming</title>
+    <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
+  </programme>
+  <channel id="aljazeera-english.qa">
+    <display-name>Al Jazeera English</display-name>
+  </channel>
+  <programme start="20260623070000 +0000" stop="20260623130000 +0000" channel="aljazeera-english.qa">
+    <title lang="en">Live Programming</title>
+    <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
+  </programme>
+  <programme start="20260623130000 +0000" stop="20260623190000 +0000" channel="aljazeera-english.qa">
+    <title lang="en">Live Programming</title>
+    <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
+  </programme>
+  <programme start="20260623190000 +0000" stop="20260624010000 +0000" channel="aljazeera-english.qa">
+    <title lang="en">Live Programming</title>
+    <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
+  </programme>
+  <programme start="20260624010000 +0000" stop="20260624070000 +0000" channel="aljazeera-english.qa">
+    <title lang="en">Live Programming</title>
+    <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
+  </programme>
+  <channel id="arirang-tv.kr">
+    <display-name>Arirang TV</display-name>
+  </channel>
+  <programme start="20260623070000 +0000" stop="20260623130000 +0000" channel="arirang-tv.kr">
+    <title lang="en">Live Programming</title>
+    <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
+  </programme>
+  <programme start="20260623130000 +0000" stop="20260623190000 +0000" channel="arirang-tv.kr">
+    <title lang="en">Live Programming</title>
+    <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
+  </programme>
+  <programme start="20260623190000 +0000" stop="20260624010000 +0000" channel="arirang-tv.kr">
+    <title lang="en">Live Programming</title>
+    <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
+  </programme>
+  <programme start="20260624010000 +0000" stop="20260624070000 +0000" channel="arirang-tv.kr">
+    <title lang="en">Live Programming</title>
+    <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
+  </programme>
+</tv>

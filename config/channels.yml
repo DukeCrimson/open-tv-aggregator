@@ -1,0 +1,123 @@
+# Seed channels are intentionally small and configuration-driven.
+# Prefer official/public HLS when available. YouTube Live examples are kept
+# disabled by default because YouTube may require cookies or bot checks.
+
+- id: taiwanplus-live
+  name: TaiwanPlus Live
+  group: Taiwan
+  country: TW
+  logo: ""
+  source_type: hls
+  url: https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+  epg_id: taiwanplus.tw
+  enabled: true
+
+- id: dw-news
+  name: DW News
+  group: News
+  country: DE
+  logo: ""
+  source_type: hls
+  url: https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
+  epg_id: dw-news.de
+  enabled: true
+
+- id: france24-english
+  name: France 24 English
+  group: News
+  country: FR
+  logo: ""
+  source_type: hls
+  url: https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_2300.m3u8
+  epg_id: france24-english.fr
+  enabled: true
+
+- id: nhk-world-japan
+  name: NHK World Japan
+  group: Asia
+  country: JP
+  logo: ""
+  source_type: hls
+  url: https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
+  epg_id: nhk-world.jp
+  enabled: true
+
+- id: cna-singapore
+  name: CNA Singapore
+  group: Asia
+  country: SG
+  logo: ""
+  source_type: hls
+  url: https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+  epg_id: cna.sg
+  enabled: true
+
+- id: bloomberg-tv-us
+  name: Bloomberg TV US
+  group: News
+  country: US
+  logo: ""
+  source_type: hls
+  url: https://bloomberg.com/media-manifest/streams/us.m3u8
+  epg_id: bloomberg-tv.us
+  enabled: true
+
+- id: aljazeera-english
+  name: Al Jazeera English
+  group: Global
+  country: QA
+  logo: ""
+  source_type: hls
+  url: https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
+  epg_id: aljazeera-english.qa
+  enabled: true
+
+- id: arirang-tv
+  name: Arirang TV
+  group: Asia
+  country: KR
+  logo: ""
+  source_type: hls
+  url: https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+  epg_id: arirang-tv.kr
+  enabled: true
+
+- id: tvbs-news-youtube
+  name: TVBS News Live
+  group: Taiwan
+  country: TW
+  logo: ""
+  source_type: youtube
+  url: https://www.youtube.com/@TVBSNEWS01/live
+  epg_id: tvbs-news.tw
+  enabled: false
+
+- id: nasa-live-youtube
+  name: NASA Live
+  group: Tech
+  country: US
+  logo: ""
+  source_type: youtube
+  url: https://www.youtube.com/@NASA/live
+  epg_id: nasa-live.us
+  enabled: false
+
+- id: esa-live-youtube
+  name: ESA Live
+  group: Tech
+  country: EU
+  logo: ""
+  source_type: youtube
+  url: https://www.youtube.com/@EuropeanSpaceAgency/live
+  epg_id: esa-live.eu
+  enabled: false
+
+- id: example-official-hls
+  name: Example Official HLS
+  group: Global
+  country: US
+  logo: ""
+  source_type: hls
+  url: https://example.com/live.m3u8
+  epg_id: example-hls.global
+  enabled: false
