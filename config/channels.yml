@@ -82,6 +82,96 @@
   epg_id: arirang-tv.kr
   enabled: true
 
+- id: cgtn
+  name: CGTN
+  group: China
+  country: CN
+  logo: ""
+  source_type: hls
+  url: https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+  epg_id: cgtn.cn
+  enabled: true
+
+- id: cgtn-documentary
+  name: CGTN Documentary
+  group: China
+  country: CN
+  logo: ""
+  source_type: hls
+  url: https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+  epg_id: cgtn-documentary.cn
+  enabled: true
+
+- id: cgtn-francais
+  name: CGTN Francais
+  group: China
+  country: CN
+  logo: ""
+  source_type: hls
+  url: https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
+  epg_id: cgtn-francais.cn
+  enabled: true
+
+- id: cgtn-espanol
+  name: CGTN Espanol
+  group: China
+  country: CN
+  logo: ""
+  source_type: hls
+  url: https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
+  epg_id: cgtn-espanol.cn
+  enabled: true
+
+- id: cgtn-arabic
+  name: CGTN Arabic
+  group: China
+  country: CN
+  logo: ""
+  source_type: hls
+  url: https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
+  epg_id: cgtn-arabic.cn
+  enabled: true
+
+- id: cgtn-russian
+  name: CGTN Russian
+  group: China
+  country: CN
+  logo: ""
+  source_type: hls
+  url: https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
+  epg_id: cgtn-russian.cn
+  enabled: true
+
+- id: cctvplus-1
+  name: CCTV+ Channel 1
+  group: China
+  country: CN
+  logo: ""
+  source_type: hls
+  url: https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+  epg_id: cctvplus-1.cn
+  enabled: true
+
+- id: cctvplus-2
+  name: CCTV+ Channel 2
+  group: China
+  country: CN
+  logo: ""
+  source_type: hls
+  url: https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+  epg_id: cctvplus-2.cn
+  enabled: true
+
+- id: cctv4-america
+  name: CCTV-4 America
+  group: China
+  country: CN
+  logo: ""
+  source_type: hls
+  url: https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+  epg_id: cctv4-america.cn
+  enabled: true
+
 - id: tvbs-news-youtube
   name: TVBS News Live
   group: Taiwan

@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-06-23T07:22:20.434716+00:00",
-  "total": 8,
-  "online": 7,
+  "updated_at": "2026-06-23T08:17:06.287790+00:00",
+  "total": 17,
+  "online": 16,
   "offline": 1,
-  "playlist_count": 7,
+  "playlist_count": 16,
   "failures": [
     {
       "id": "taiwanplus-live",
@@ -11,9 +11,9 @@
       "source_type": "hls",
       "url": "https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8",
       "resolved_url": "https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8",
-      "reason": "HTTP status 403",
+      "reason": "HTTPSConnectionPool(host='bcovlive-a.akamaihd.net', port=443): Read timed out. (read timeout=10)",
       "http_status": 403,
-      "checked_at": "2026-06-23T07:22:07.911238+00:00"
+      "checked_at": "2026-06-23T08:15:22.675145+00:00"
     }
   ],
   "channels": [
@@ -32,9 +32,9 @@
       "status": "offline",
       "http_status": 403,
       "resolution_error": null,
-      "validation_error": "HTTP status 403",
-      "failure_reason": "HTTP status 403",
-      "checked_at": "2026-06-23T07:22:07.911238+00:00",
+      "validation_error": "HTTPSConnectionPool(host='bcovlive-a.akamaihd.net', port=443): Read timed out. (read timeout=10)",
+      "failure_reason": "HTTPSConnectionPool(host='bcovlive-a.akamaihd.net', port=443): Read timed out. (read timeout=10)",
+      "checked_at": "2026-06-23T08:15:22.675145+00:00",
       "included_in_playlist": false
     },
     {
@@ -54,7 +54,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-06-23T07:22:09.553590+00:00",
+      "checked_at": "2026-06-23T08:15:41.142448+00:00",
       "included_in_playlist": true
     },
     {
@@ -74,7 +74,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-06-23T07:22:10.265852+00:00",
+      "checked_at": "2026-06-23T08:15:43.721002+00:00",
       "included_in_playlist": true
     },
     {
@@ -94,7 +94,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-06-23T07:22:11.133767+00:00",
+      "checked_at": "2026-06-23T08:15:48.563748+00:00",
       "included_in_playlist": true
     },
     {
@@ -110,11 +110,11 @@
       },
       "resolved_url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8",
       "status": "online",
-      "http_status": 200,
+      "http_status": 206,
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-06-23T07:22:14.517068+00:00",
+      "checked_at": "2026-06-23T08:15:57.235046+00:00",
       "included_in_playlist": true
     },
     {
@@ -134,7 +134,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-06-23T07:22:15.410386+00:00",
+      "checked_at": "2026-06-23T08:16:13.884699+00:00",
       "included_in_playlist": true
     },
     {
@@ -154,7 +154,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-06-23T07:22:16.918813+00:00",
+      "checked_at": "2026-06-23T08:16:26.906625+00:00",
       "included_in_playlist": true
     },
     {
@@ -174,7 +174,187 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-06-23T07:22:19.176608+00:00",
+      "checked_at": "2026-06-23T08:16:31.519782+00:00",
+      "included_in_playlist": true
+    },
+    {
+      "channel": {
+        "id": "cgtn",
+        "name": "CGTN",
+        "group": "China",
+        "country": "CN",
+        "source_type": "hls",
+        "url": "https://news.cgtn.com/resource/live/english/cgtn-news.m3u8",
+        "epg_id": "cgtn.cn",
+        "allow_offline": false
+      },
+      "resolved_url": "https://news.cgtn.com/resource/live/english/cgtn-news.m3u8",
+      "status": "online",
+      "http_status": 200,
+      "resolution_error": null,
+      "validation_error": null,
+      "failure_reason": null,
+      "checked_at": "2026-06-23T08:16:38.607121+00:00",
+      "included_in_playlist": true
+    },
+    {
+      "channel": {
+        "id": "cgtn-documentary",
+        "name": "CGTN Documentary",
+        "group": "China",
+        "country": "CN",
+        "source_type": "hls",
+        "url": "https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8",
+        "epg_id": "cgtn-documentary.cn",
+        "allow_offline": false
+      },
+      "resolved_url": "https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8",
+      "status": "online",
+      "http_status": 200,
+      "resolution_error": null,
+      "validation_error": null,
+      "failure_reason": null,
+      "checked_at": "2026-06-23T08:16:42.422751+00:00",
+      "included_in_playlist": true
+    },
+    {
+      "channel": {
+        "id": "cgtn-francais",
+        "name": "CGTN Francais",
+        "group": "China",
+        "country": "CN",
+        "source_type": "hls",
+        "url": "https://news.cgtn.com/resource/live/french/cgtn-f.m3u8",
+        "epg_id": "cgtn-francais.cn",
+        "allow_offline": false
+      },
+      "resolved_url": "https://news.cgtn.com/resource/live/french/cgtn-f.m3u8",
+      "status": "online",
+      "http_status": 200,
+      "resolution_error": null,
+      "validation_error": null,
+      "failure_reason": null,
+      "checked_at": "2026-06-23T08:16:47.933771+00:00",
+      "included_in_playlist": true
+    },
+    {
+      "channel": {
+        "id": "cgtn-espanol",
+        "name": "CGTN Espanol",
+        "group": "China",
+        "country": "CN",
+        "source_type": "hls",
+        "url": "https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8",
+        "epg_id": "cgtn-espanol.cn",
+        "allow_offline": false
+      },
+      "resolved_url": "https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8",
+      "status": "online",
+      "http_status": 200,
+      "resolution_error": null,
+      "validation_error": null,
+      "failure_reason": null,
+      "checked_at": "2026-06-23T08:16:57.260300+00:00",
+      "included_in_playlist": true
+    },
+    {
+      "channel": {
+        "id": "cgtn-arabic",
+        "name": "CGTN Arabic",
+        "group": "China",
+        "country": "CN",
+        "source_type": "hls",
+        "url": "https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8",
+        "epg_id": "cgtn-arabic.cn",
+        "allow_offline": false
+      },
+      "resolved_url": "https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8",
+      "status": "online",
+      "http_status": 200,
+      "resolution_error": null,
+      "validation_error": null,
+      "failure_reason": null,
+      "checked_at": "2026-06-23T08:16:58.165506+00:00",
+      "included_in_playlist": true
+    },
+    {
+      "channel": {
+        "id": "cgtn-russian",
+        "name": "CGTN Russian",
+        "group": "China",
+        "country": "CN",
+        "source_type": "hls",
+        "url": "https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8",
+        "epg_id": "cgtn-russian.cn",
+        "allow_offline": false
+      },
+      "resolved_url": "https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8",
+      "status": "online",
+      "http_status": 200,
+      "resolution_error": null,
+      "validation_error": null,
+      "failure_reason": null,
+      "checked_at": "2026-06-23T08:16:59.027398+00:00",
+      "included_in_playlist": true
+    },
+    {
+      "channel": {
+        "id": "cctvplus-1",
+        "name": "CCTV+ Channel 1",
+        "group": "China",
+        "country": "CN",
+        "source_type": "hls",
+        "url": "https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8",
+        "epg_id": "cctvplus-1.cn",
+        "allow_offline": false
+      },
+      "resolved_url": "https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8",
+      "status": "online",
+      "http_status": 200,
+      "resolution_error": null,
+      "validation_error": null,
+      "failure_reason": null,
+      "checked_at": "2026-06-23T08:17:00.517922+00:00",
+      "included_in_playlist": true
+    },
+    {
+      "channel": {
+        "id": "cctvplus-2",
+        "name": "CCTV+ Channel 2",
+        "group": "China",
+        "country": "CN",
+        "source_type": "hls",
+        "url": "https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8",
+        "epg_id": "cctvplus-2.cn",
+        "allow_offline": false
+      },
+      "resolved_url": "https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8",
+      "status": "online",
+      "http_status": 200,
+      "resolution_error": null,
+      "validation_error": null,
+      "failure_reason": null,
+      "checked_at": "2026-06-23T08:17:02.673550+00:00",
+      "included_in_playlist": true
+    },
+    {
+      "channel": {
+        "id": "cctv4-america",
+        "name": "CCTV-4 America",
+        "group": "China",
+        "country": "CN",
+        "source_type": "hls",
+        "url": "https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8",
+        "epg_id": "cctv4-america.cn",
+        "allow_offline": false
+      },
+      "resolved_url": "https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8",
+      "status": "online",
+      "http_status": 200,
+      "resolution_error": null,
+      "validation_error": null,
+      "failure_reason": null,
+      "checked_at": "2026-06-23T08:17:04.403017+00:00",
       "included_in_playlist": true
     }
   ]
