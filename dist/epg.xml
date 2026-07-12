@@ -3,304 +3,304 @@
   <channel id="dw-news.de">
     <display-name>DW News</display-name>
   </channel>
-  <programme start="20260712080000 +0000" stop="20260712140000 +0000" channel="dw-news.de">
+  <programme start="20260712130000 +0000" stop="20260712190000 +0000" channel="dw-news.de">
     <title lang="en">Live Programming</title>
     <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
   </programme>
-  <programme start="20260712140000 +0000" stop="20260712200000 +0000" channel="dw-news.de">
+  <programme start="20260712190000 +0000" stop="20260713010000 +0000" channel="dw-news.de">
     <title lang="en">Live Programming</title>
     <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
   </programme>
-  <programme start="20260712200000 +0000" stop="20260713020000 +0000" channel="dw-news.de">
+  <programme start="20260713010000 +0000" stop="20260713070000 +0000" channel="dw-news.de">
     <title lang="en">Live Programming</title>
     <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
   </programme>
-  <programme start="20260713020000 +0000" stop="20260713080000 +0000" channel="dw-news.de">
+  <programme start="20260713070000 +0000" stop="20260713130000 +0000" channel="dw-news.de">
     <title lang="en">Live Programming</title>
     <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
   </programme>
   <channel id="france24-english.fr">
     <display-name>France 24 English</display-name>
   </channel>
-  <programme start="20260712080000 +0000" stop="20260712140000 +0000" channel="france24-english.fr">
+  <programme start="20260712130000 +0000" stop="20260712190000 +0000" channel="france24-english.fr">
     <title lang="en">Live Programming</title>
     <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
   </programme>
-  <programme start="20260712140000 +0000" stop="20260712200000 +0000" channel="france24-english.fr">
+  <programme start="20260712190000 +0000" stop="20260713010000 +0000" channel="france24-english.fr">
     <title lang="en">Live Programming</title>
     <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
   </programme>
-  <programme start="20260712200000 +0000" stop="20260713020000 +0000" channel="france24-english.fr">
+  <programme start="20260713010000 +0000" stop="20260713070000 +0000" channel="france24-english.fr">
     <title lang="en">Live Programming</title>
     <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
   </programme>
-  <programme start="20260713020000 +0000" stop="20260713080000 +0000" channel="france24-english.fr">
+  <programme start="20260713070000 +0000" stop="20260713130000 +0000" channel="france24-english.fr">
     <title lang="en">Live Programming</title>
     <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
   </programme>
   <channel id="nhk-world.jp">
     <display-name>NHK World Japan</display-name>
   </channel>
-  <programme start="20260712080000 +0000" stop="20260712140000 +0000" channel="nhk-world.jp">
+  <programme start="20260712130000 +0000" stop="20260712190000 +0000" channel="nhk-world.jp">
     <title lang="en">Live Programming</title>
     <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
   </programme>
-  <programme start="20260712140000 +0000" stop="20260712200000 +0000" channel="nhk-world.jp">
+  <programme start="20260712190000 +0000" stop="20260713010000 +0000" channel="nhk-world.jp">
     <title lang="en">Live Programming</title>
     <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
   </programme>
-  <programme start="20260712200000 +0000" stop="20260713020000 +0000" channel="nhk-world.jp">
+  <programme start="20260713010000 +0000" stop="20260713070000 +0000" channel="nhk-world.jp">
     <title lang="en">Live Programming</title>
     <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
   </programme>
-  <programme start="20260713020000 +0000" stop="20260713080000 +0000" channel="nhk-world.jp">
+  <programme start="20260713070000 +0000" stop="20260713130000 +0000" channel="nhk-world.jp">
     <title lang="en">Live Programming</title>
     <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
   </programme>
   <channel id="cna.sg">
     <display-name>CNA Singapore</display-name>
   </channel>
-  <programme start="20260712080000 +0000" stop="20260712140000 +0000" channel="cna.sg">
+  <programme start="20260712130000 +0000" stop="20260712190000 +0000" channel="cna.sg">
     <title lang="en">Live Programming</title>
     <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
   </programme>
-  <programme start="20260712140000 +0000" stop="20260712200000 +0000" channel="cna.sg">
+  <programme start="20260712190000 +0000" stop="20260713010000 +0000" channel="cna.sg">
     <title lang="en">Live Programming</title>
     <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
   </programme>
-  <programme start="20260712200000 +0000" stop="20260713020000 +0000" channel="cna.sg">
+  <programme start="20260713010000 +0000" stop="20260713070000 +0000" channel="cna.sg">
     <title lang="en">Live Programming</title>
     <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
   </programme>
-  <programme start="20260713020000 +0000" stop="20260713080000 +0000" channel="cna.sg">
+  <programme start="20260713070000 +0000" stop="20260713130000 +0000" channel="cna.sg">
     <title lang="en">Live Programming</title>
     <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
   </programme>
   <channel id="bloomberg-tv.us">
     <display-name>Bloomberg TV US</display-name>
   </channel>
-  <programme start="20260712080000 +0000" stop="20260712140000 +0000" channel="bloomberg-tv.us">
+  <programme start="20260712130000 +0000" stop="20260712190000 +0000" channel="bloomberg-tv.us">
     <title lang="en">Live Programming</title>
     <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
   </programme>
-  <programme start="20260712140000 +0000" stop="20260712200000 +0000" channel="bloomberg-tv.us">
+  <programme start="20260712190000 +0000" stop="20260713010000 +0000" channel="bloomberg-tv.us">
     <title lang="en">Live Programming</title>
     <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
   </programme>
-  <programme start="20260712200000 +0000" stop="20260713020000 +0000" channel="bloomberg-tv.us">
+  <programme start="20260713010000 +0000" stop="20260713070000 +0000" channel="bloomberg-tv.us">
     <title lang="en">Live Programming</title>
     <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
   </programme>
-  <programme start="20260713020000 +0000" stop="20260713080000 +0000" channel="bloomberg-tv.us">
+  <programme start="20260713070000 +0000" stop="20260713130000 +0000" channel="bloomberg-tv.us">
     <title lang="en">Live Programming</title>
     <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
   </programme>
   <channel id="aljazeera-english.qa">
     <display-name>Al Jazeera English</display-name>
   </channel>
-  <programme start="20260712080000 +0000" stop="20260712140000 +0000" channel="aljazeera-english.qa">
+  <programme start="20260712130000 +0000" stop="20260712190000 +0000" channel="aljazeera-english.qa">
     <title lang="en">Live Programming</title>
     <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
   </programme>
-  <programme start="20260712140000 +0000" stop="20260712200000 +0000" channel="aljazeera-english.qa">
+  <programme start="20260712190000 +0000" stop="20260713010000 +0000" channel="aljazeera-english.qa">
     <title lang="en">Live Programming</title>
     <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
   </programme>
-  <programme start="20260712200000 +0000" stop="20260713020000 +0000" channel="aljazeera-english.qa">
+  <programme start="20260713010000 +0000" stop="20260713070000 +0000" channel="aljazeera-english.qa">
     <title lang="en">Live Programming</title>
     <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
   </programme>
-  <programme start="20260713020000 +0000" stop="20260713080000 +0000" channel="aljazeera-english.qa">
+  <programme start="20260713070000 +0000" stop="20260713130000 +0000" channel="aljazeera-english.qa">
     <title lang="en">Live Programming</title>
     <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
   </programme>
   <channel id="arirang-tv.kr">
     <display-name>Arirang TV</display-name>
   </channel>
-  <programme start="20260712080000 +0000" stop="20260712140000 +0000" channel="arirang-tv.kr">
+  <programme start="20260712130000 +0000" stop="20260712190000 +0000" channel="arirang-tv.kr">
     <title lang="en">Live Programming</title>
     <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
   </programme>
-  <programme start="20260712140000 +0000" stop="20260712200000 +0000" channel="arirang-tv.kr">
+  <programme start="20260712190000 +0000" stop="20260713010000 +0000" channel="arirang-tv.kr">
     <title lang="en">Live Programming</title>
     <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
   </programme>
-  <programme start="20260712200000 +0000" stop="20260713020000 +0000" channel="arirang-tv.kr">
+  <programme start="20260713010000 +0000" stop="20260713070000 +0000" channel="arirang-tv.kr">
     <title lang="en">Live Programming</title>
     <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
   </programme>
-  <programme start="20260713020000 +0000" stop="20260713080000 +0000" channel="arirang-tv.kr">
+  <programme start="20260713070000 +0000" stop="20260713130000 +0000" channel="arirang-tv.kr">
     <title lang="en">Live Programming</title>
     <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
   </programme>
   <channel id="cgtn.cn">
     <display-name>CGTN</display-name>
   </channel>
-  <programme start="20260712080000 +0000" stop="20260712140000 +0000" channel="cgtn.cn">
+  <programme start="20260712130000 +0000" stop="20260712190000 +0000" channel="cgtn.cn">
     <title lang="en">Live Programming</title>
     <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
   </programme>
-  <programme start="20260712140000 +0000" stop="20260712200000 +0000" channel="cgtn.cn">
+  <programme start="20260712190000 +0000" stop="20260713010000 +0000" channel="cgtn.cn">
     <title lang="en">Live Programming</title>
     <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
   </programme>
-  <programme start="20260712200000 +0000" stop="20260713020000 +0000" channel="cgtn.cn">
+  <programme start="20260713010000 +0000" stop="20260713070000 +0000" channel="cgtn.cn">
     <title lang="en">Live Programming</title>
     <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
   </programme>
-  <programme start="20260713020000 +0000" stop="20260713080000 +0000" channel="cgtn.cn">
+  <programme start="20260713070000 +0000" stop="20260713130000 +0000" channel="cgtn.cn">
     <title lang="en">Live Programming</title>
     <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
   </programme>
   <channel id="cgtn-documentary.cn">
     <display-name>CGTN Documentary</display-name>
   </channel>
-  <programme start="20260712080000 +0000" stop="20260712140000 +0000" channel="cgtn-documentary.cn">
+  <programme start="20260712130000 +0000" stop="20260712190000 +0000" channel="cgtn-documentary.cn">
     <title lang="en">Live Programming</title>
     <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
   </programme>
-  <programme start="20260712140000 +0000" stop="20260712200000 +0000" channel="cgtn-documentary.cn">
+  <programme start="20260712190000 +0000" stop="20260713010000 +0000" channel="cgtn-documentary.cn">
     <title lang="en">Live Programming</title>
     <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
   </programme>
-  <programme start="20260712200000 +0000" stop="20260713020000 +0000" channel="cgtn-documentary.cn">
+  <programme start="20260713010000 +0000" stop="20260713070000 +0000" channel="cgtn-documentary.cn">
     <title lang="en">Live Programming</title>
     <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
   </programme>
-  <programme start="20260713020000 +0000" stop="20260713080000 +0000" channel="cgtn-documentary.cn">
+  <programme start="20260713070000 +0000" stop="20260713130000 +0000" channel="cgtn-documentary.cn">
     <title lang="en">Live Programming</title>
     <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
   </programme>
   <channel id="cgtn-francais.cn">
     <display-name>CGTN Francais</display-name>
   </channel>
-  <programme start="20260712080000 +0000" stop="20260712140000 +0000" channel="cgtn-francais.cn">
+  <programme start="20260712130000 +0000" stop="20260712190000 +0000" channel="cgtn-francais.cn">
     <title lang="en">Live Programming</title>
     <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
   </programme>
-  <programme start="20260712140000 +0000" stop="20260712200000 +0000" channel="cgtn-francais.cn">
+  <programme start="20260712190000 +0000" stop="20260713010000 +0000" channel="cgtn-francais.cn">
     <title lang="en">Live Programming</title>
     <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
   </programme>
-  <programme start="20260712200000 +0000" stop="20260713020000 +0000" channel="cgtn-francais.cn">
+  <programme start="20260713010000 +0000" stop="20260713070000 +0000" channel="cgtn-francais.cn">
     <title lang="en">Live Programming</title>
     <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
   </programme>
-  <programme start="20260713020000 +0000" stop="20260713080000 +0000" channel="cgtn-francais.cn">
+  <programme start="20260713070000 +0000" stop="20260713130000 +0000" channel="cgtn-francais.cn">
     <title lang="en">Live Programming</title>
     <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
   </programme>
   <channel id="cgtn-espanol.cn">
     <display-name>CGTN Espanol</display-name>
   </channel>
-  <programme start="20260712080000 +0000" stop="20260712140000 +0000" channel="cgtn-espanol.cn">
+  <programme start="20260712130000 +0000" stop="20260712190000 +0000" channel="cgtn-espanol.cn">
     <title lang="en">Live Programming</title>
     <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
   </programme>
-  <programme start="20260712140000 +0000" stop="20260712200000 +0000" channel="cgtn-espanol.cn">
+  <programme start="20260712190000 +0000" stop="20260713010000 +0000" channel="cgtn-espanol.cn">
     <title lang="en">Live Programming</title>
     <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
   </programme>
-  <programme start="20260712200000 +0000" stop="20260713020000 +0000" channel="cgtn-espanol.cn">
+  <programme start="20260713010000 +0000" stop="20260713070000 +0000" channel="cgtn-espanol.cn">
     <title lang="en">Live Programming</title>
     <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
   </programme>
-  <programme start="20260713020000 +0000" stop="20260713080000 +0000" channel="cgtn-espanol.cn">
+  <programme start="20260713070000 +0000" stop="20260713130000 +0000" channel="cgtn-espanol.cn">
     <title lang="en">Live Programming</title>
     <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
   </programme>
   <channel id="cgtn-arabic.cn">
     <display-name>CGTN Arabic</display-name>
   </channel>
-  <programme start="20260712080000 +0000" stop="20260712140000 +0000" channel="cgtn-arabic.cn">
+  <programme start="20260712130000 +0000" stop="20260712190000 +0000" channel="cgtn-arabic.cn">
     <title lang="en">Live Programming</title>
     <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
   </programme>
-  <programme start="20260712140000 +0000" stop="20260712200000 +0000" channel="cgtn-arabic.cn">
+  <programme start="20260712190000 +0000" stop="20260713010000 +0000" channel="cgtn-arabic.cn">
     <title lang="en">Live Programming</title>
     <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
   </programme>
-  <programme start="20260712200000 +0000" stop="20260713020000 +0000" channel="cgtn-arabic.cn">
+  <programme start="20260713010000 +0000" stop="20260713070000 +0000" channel="cgtn-arabic.cn">
     <title lang="en">Live Programming</title>
     <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
   </programme>
-  <programme start="20260713020000 +0000" stop="20260713080000 +0000" channel="cgtn-arabic.cn">
+  <programme start="20260713070000 +0000" stop="20260713130000 +0000" channel="cgtn-arabic.cn">
     <title lang="en">Live Programming</title>
     <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
   </programme>
   <channel id="cgtn-russian.cn">
     <display-name>CGTN Russian</display-name>
   </channel>
-  <programme start="20260712080000 +0000" stop="20260712140000 +0000" channel="cgtn-russian.cn">
+  <programme start="20260712130000 +0000" stop="20260712190000 +0000" channel="cgtn-russian.cn">
     <title lang="en">Live Programming</title>
     <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
   </programme>
-  <programme start="20260712140000 +0000" stop="20260712200000 +0000" channel="cgtn-russian.cn">
+  <programme start="20260712190000 +0000" stop="20260713010000 +0000" channel="cgtn-russian.cn">
     <title lang="en">Live Programming</title>
     <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
   </programme>
-  <programme start="20260712200000 +0000" stop="20260713020000 +0000" channel="cgtn-russian.cn">
+  <programme start="20260713010000 +0000" stop="20260713070000 +0000" channel="cgtn-russian.cn">
     <title lang="en">Live Programming</title>
     <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
   </programme>
-  <programme start="20260713020000 +0000" stop="20260713080000 +0000" channel="cgtn-russian.cn">
+  <programme start="20260713070000 +0000" stop="20260713130000 +0000" channel="cgtn-russian.cn">
     <title lang="en">Live Programming</title>
     <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
   </programme>
   <channel id="cctvplus-1.cn">
     <display-name>CCTV+ Channel 1</display-name>
   </channel>
-  <programme start="20260712080000 +0000" stop="20260712140000 +0000" channel="cctvplus-1.cn">
+  <programme start="20260712130000 +0000" stop="20260712190000 +0000" channel="cctvplus-1.cn">
     <title lang="en">Live Programming</title>
     <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
   </programme>
-  <programme start="20260712140000 +0000" stop="20260712200000 +0000" channel="cctvplus-1.cn">
+  <programme start="20260712190000 +0000" stop="20260713010000 +0000" channel="cctvplus-1.cn">
     <title lang="en">Live Programming</title>
     <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
   </programme>
-  <programme start="20260712200000 +0000" stop="20260713020000 +0000" channel="cctvplus-1.cn">
+  <programme start="20260713010000 +0000" stop="20260713070000 +0000" channel="cctvplus-1.cn">
     <title lang="en">Live Programming</title>
     <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
   </programme>
-  <programme start="20260713020000 +0000" stop="20260713080000 +0000" channel="cctvplus-1.cn">
+  <programme start="20260713070000 +0000" stop="20260713130000 +0000" channel="cctvplus-1.cn">
     <title lang="en">Live Programming</title>
     <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
   </programme>
   <channel id="cctvplus-2.cn">
     <display-name>CCTV+ Channel 2</display-name>
   </channel>
-  <programme start="20260712080000 +0000" stop="20260712140000 +0000" channel="cctvplus-2.cn">
+  <programme start="20260712130000 +0000" stop="20260712190000 +0000" channel="cctvplus-2.cn">
     <title lang="en">Live Programming</title>
     <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
   </programme>
-  <programme start="20260712140000 +0000" stop="20260712200000 +0000" channel="cctvplus-2.cn">
+  <programme start="20260712190000 +0000" stop="20260713010000 +0000" channel="cctvplus-2.cn">
     <title lang="en">Live Programming</title>
     <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
   </programme>
-  <programme start="20260712200000 +0000" stop="20260713020000 +0000" channel="cctvplus-2.cn">
+  <programme start="20260713010000 +0000" stop="20260713070000 +0000" channel="cctvplus-2.cn">
     <title lang="en">Live Programming</title>
     <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
   </programme>
-  <programme start="20260713020000 +0000" stop="20260713080000 +0000" channel="cctvplus-2.cn">
+  <programme start="20260713070000 +0000" stop="20260713130000 +0000" channel="cctvplus-2.cn">
     <title lang="en">Live Programming</title>
     <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
   </programme>
   <channel id="cctv4-america.cn">
     <display-name>CCTV-4 America</display-name>
   </channel>
-  <programme start="20260712080000 +0000" stop="20260712140000 +0000" channel="cctv4-america.cn">
+  <programme start="20260712130000 +0000" stop="20260712190000 +0000" channel="cctv4-america.cn">
     <title lang="en">Live Programming</title>
     <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
   </programme>
-  <programme start="20260712140000 +0000" stop="20260712200000 +0000" channel="cctv4-america.cn">
+  <programme start="20260712190000 +0000" stop="20260713010000 +0000" channel="cctv4-america.cn">
     <title lang="en">Live Programming</title>
     <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
   </programme>
-  <programme start="20260712200000 +0000" stop="20260713020000 +0000" channel="cctv4-america.cn">
+  <programme start="20260713010000 +0000" stop="20260713070000 +0000" channel="cctv4-america.cn">
     <title lang="en">Live Programming</title>
     <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
   </programme>
-  <programme start="20260713020000 +0000" stop="20260713080000 +0000" channel="cctv4-america.cn">
+  <programme start="20260713070000 +0000" stop="20260713130000 +0000" channel="cctv4-america.cn">
     <title lang="en">Live Programming</title>
     <desc lang="en">Placeholder schedule generated because no official EPG source is configured.</desc>
   </programme>
