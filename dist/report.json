@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-07-28T14:17:04.131563+00:00",
+  "updated_at": "2026-07-28T19:17:18.225693+00:00",
   "total": 17,
-  "online": 10,
-  "offline": 7,
-  "playlist_count": 10,
+  "online": 16,
+  "offline": 1,
+  "playlist_count": 16,
   "failures": [
     {
       "id": "taiwanplus-live",
@@ -13,67 +13,7 @@
       "resolved_url": "https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8",
       "reason": "HTTP status 403",
       "http_status": 403,
-      "checked_at": "2026-07-28T13:56:52.830331+00:00"
-    },
-    {
-      "id": "cgtn",
-      "name": "CGTN",
-      "source_type": "hls",
-      "url": "https://news.cgtn.com/resource/live/english/cgtn-news.m3u8",
-      "resolved_url": "https://news.cgtn.com/resource/live/english/cgtn-news.m3u8",
-      "reason": "HTTPSConnectionPool(host='news.cgtn.com', port=443): Max retries exceeded with url: /resource/live/english/cgtn-news.m3u8 (Caused by NewConnectionError(\"HTTPSConnection(host='news.cgtn.com', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))",
-      "http_status": null,
-      "checked_at": "2026-07-28T13:56:57.312426+00:00"
-    },
-    {
-      "id": "cgtn-documentary",
-      "name": "CGTN Documentary",
-      "source_type": "hls",
-      "url": "https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8",
-      "resolved_url": "https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8",
-      "reason": "HTTPSConnectionPool(host='news.cgtn.com', port=443): Max retries exceeded with url: /resource/live/document/cgtn-doc.m3u8 (Caused by NewConnectionError(\"HTTPSConnection(host='news.cgtn.com', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))",
-      "http_status": null,
-      "checked_at": "2026-07-28T14:00:18.213672+00:00"
-    },
-    {
-      "id": "cgtn-francais",
-      "name": "CGTN Francais",
-      "source_type": "hls",
-      "url": "https://news.cgtn.com/resource/live/french/cgtn-f.m3u8",
-      "resolved_url": "https://news.cgtn.com/resource/live/french/cgtn-f.m3u8",
-      "reason": "HTTPSConnectionPool(host='news.cgtn.com', port=443): Max retries exceeded with url: /resource/live/french/cgtn-f.m3u8 (Caused by NewConnectionError(\"HTTPSConnection(host='news.cgtn.com', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))",
-      "http_status": null,
-      "checked_at": "2026-07-28T14:03:39.021156+00:00"
-    },
-    {
-      "id": "cgtn-espanol",
-      "name": "CGTN Espanol",
-      "source_type": "hls",
-      "url": "https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8",
-      "resolved_url": "https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8",
-      "reason": "HTTPSConnectionPool(host='news.cgtn.com', port=443): Max retries exceeded with url: /resource/live/espanol/cgtn-e.m3u8 (Caused by NewConnectionError(\"HTTPSConnection(host='news.cgtn.com', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))",
-      "http_status": null,
-      "checked_at": "2026-07-28T14:06:59.752848+00:00"
-    },
-    {
-      "id": "cgtn-arabic",
-      "name": "CGTN Arabic",
-      "source_type": "hls",
-      "url": "https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8",
-      "resolved_url": "https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8",
-      "reason": "HTTPSConnectionPool(host='news.cgtn.com', port=443): Max retries exceeded with url: /resource/live/arabic/cgtn-a.m3u8 (Caused by NewConnectionError(\"HTTPSConnection(host='news.cgtn.com', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))",
-      "http_status": null,
-      "checked_at": "2026-07-28T14:10:20.491043+00:00"
-    },
-    {
-      "id": "cgtn-russian",
-      "name": "CGTN Russian",
-      "source_type": "hls",
-      "url": "https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8",
-      "resolved_url": "https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8",
-      "reason": "HTTPSConnectionPool(host='news.cgtn.com', port=443): Max retries exceeded with url: /resource/live/russian/cgtn-r.m3u8 (Caused by NewConnectionError(\"HTTPSConnection(host='news.cgtn.com', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))",
-      "http_status": null,
-      "checked_at": "2026-07-28T14:13:41.043339+00:00"
+      "checked_at": "2026-07-28T19:17:06.578667+00:00"
     }
   ],
   "channels": [
@@ -94,7 +34,7 @@
       "resolution_error": null,
       "validation_error": "HTTP status 403",
       "failure_reason": "HTTP status 403",
-      "checked_at": "2026-07-28T13:56:52.830331+00:00",
+      "checked_at": "2026-07-28T19:17:06.578667+00:00",
       "included_in_playlist": false
     },
     {
@@ -114,7 +54,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-07-28T13:56:53.379753+00:00",
+      "checked_at": "2026-07-28T19:17:07.125285+00:00",
       "included_in_playlist": true
     },
     {
@@ -134,7 +74,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-07-28T13:56:53.523632+00:00",
+      "checked_at": "2026-07-28T19:17:07.692694+00:00",
       "included_in_playlist": true
     },
     {
@@ -154,7 +94,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-07-28T13:56:53.615402+00:00",
+      "checked_at": "2026-07-28T19:17:07.878133+00:00",
       "included_in_playlist": true
     },
     {
@@ -174,7 +114,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-07-28T13:56:53.950181+00:00",
+      "checked_at": "2026-07-28T19:17:08.049313+00:00",
       "included_in_playlist": true
     },
     {
@@ -194,7 +134,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-07-28T13:56:54.267589+00:00",
+      "checked_at": "2026-07-28T19:17:08.339126+00:00",
       "included_in_playlist": true
     },
     {
@@ -214,7 +154,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-07-28T13:56:54.515086+00:00",
+      "checked_at": "2026-07-28T19:17:12.412723+00:00",
       "included_in_playlist": true
     },
     {
@@ -234,7 +174,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-07-28T13:56:56.175152+00:00",
+      "checked_at": "2026-07-28T19:17:14.447021+00:00",
       "included_in_playlist": true
     },
     {
@@ -249,13 +189,13 @@
         "allow_offline": false
       },
       "resolved_url": "https://news.cgtn.com/resource/live/english/cgtn-news.m3u8",
-      "status": "offline",
-      "http_status": null,
+      "status": "online",
+      "http_status": 200,
       "resolution_error": null,
-      "validation_error": "HTTPSConnectionPool(host='news.cgtn.com', port=443): Max retries exceeded with url: /resource/live/english/cgtn-news.m3u8 (Caused by NewConnectionError(\"HTTPSConnection(host='news.cgtn.com', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))",
-      "failure_reason": "HTTPSConnectionPool(host='news.cgtn.com', port=443): Max retries exceeded with url: /resource/live/english/cgtn-news.m3u8 (Caused by NewConnectionError(\"HTTPSConnection(host='news.cgtn.com', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))",
-      "checked_at": "2026-07-28T13:56:57.312426+00:00",
-      "included_in_playlist": false
+      "validation_error": null,
+      "failure_reason": null,
+      "checked_at": "2026-07-28T19:17:14.712319+00:00",
+      "included_in_playlist": true
     },
     {
       "channel": {
@@ -269,13 +209,13 @@
         "allow_offline": false
       },
       "resolved_url": "https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8",
-      "status": "offline",
-      "http_status": null,
+      "status": "online",
+      "http_status": 200,
       "resolution_error": null,
-      "validation_error": "HTTPSConnectionPool(host='news.cgtn.com', port=443): Max retries exceeded with url: /resource/live/document/cgtn-doc.m3u8 (Caused by NewConnectionError(\"HTTPSConnection(host='news.cgtn.com', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))",
-      "failure_reason": "HTTPSConnectionPool(host='news.cgtn.com', port=443): Max retries exceeded with url: /resource/live/document/cgtn-doc.m3u8 (Caused by NewConnectionError(\"HTTPSConnection(host='news.cgtn.com', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))",
-      "checked_at": "2026-07-28T14:00:18.213672+00:00",
-      "included_in_playlist": false
+      "validation_error": null,
+      "failure_reason": null,
+      "checked_at": "2026-07-28T19:17:15.063769+00:00",
+      "included_in_playlist": true
     },
     {
       "channel": {
@@ -289,13 +229,13 @@
         "allow_offline": false
       },
       "resolved_url": "https://news.cgtn.com/resource/live/french/cgtn-f.m3u8",
-      "status": "offline",
-      "http_status": null,
+      "status": "online",
+      "http_status": 200,
       "resolution_error": null,
-      "validation_error": "HTTPSConnectionPool(host='news.cgtn.com', port=443): Max retries exceeded with url: /resource/live/french/cgtn-f.m3u8 (Caused by NewConnectionError(\"HTTPSConnection(host='news.cgtn.com', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))",
-      "failure_reason": "HTTPSConnectionPool(host='news.cgtn.com', port=443): Max retries exceeded with url: /resource/live/french/cgtn-f.m3u8 (Caused by NewConnectionError(\"HTTPSConnection(host='news.cgtn.com', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))",
-      "checked_at": "2026-07-28T14:03:39.021156+00:00",
-      "included_in_playlist": false
+      "validation_error": null,
+      "failure_reason": null,
+      "checked_at": "2026-07-28T19:17:15.260392+00:00",
+      "included_in_playlist": true
     },
     {
       "channel": {
@@ -309,13 +249,13 @@
         "allow_offline": false
       },
       "resolved_url": "https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8",
-      "status": "offline",
-      "http_status": null,
+      "status": "online",
+      "http_status": 200,
       "resolution_error": null,
-      "validation_error": "HTTPSConnectionPool(host='news.cgtn.com', port=443): Max retries exceeded with url: /resource/live/espanol/cgtn-e.m3u8 (Caused by NewConnectionError(\"HTTPSConnection(host='news.cgtn.com', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))",
-      "failure_reason": "HTTPSConnectionPool(host='news.cgtn.com', port=443): Max retries exceeded with url: /resource/live/espanol/cgtn-e.m3u8 (Caused by NewConnectionError(\"HTTPSConnection(host='news.cgtn.com', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))",
-      "checked_at": "2026-07-28T14:06:59.752848+00:00",
-      "included_in_playlist": false
+      "validation_error": null,
+      "failure_reason": null,
+      "checked_at": "2026-07-28T19:17:15.456458+00:00",
+      "included_in_playlist": true
     },
     {
       "channel": {
@@ -329,13 +269,13 @@
         "allow_offline": false
       },
       "resolved_url": "https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8",
-      "status": "offline",
-      "http_status": null,
+      "status": "online",
+      "http_status": 200,
       "resolution_error": null,
-      "validation_error": "HTTPSConnectionPool(host='news.cgtn.com', port=443): Max retries exceeded with url: /resource/live/arabic/cgtn-a.m3u8 (Caused by NewConnectionError(\"HTTPSConnection(host='news.cgtn.com', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))",
-      "failure_reason": "HTTPSConnectionPool(host='news.cgtn.com', port=443): Max retries exceeded with url: /resource/live/arabic/cgtn-a.m3u8 (Caused by NewConnectionError(\"HTTPSConnection(host='news.cgtn.com', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))",
-      "checked_at": "2026-07-28T14:10:20.491043+00:00",
-      "included_in_playlist": false
+      "validation_error": null,
+      "failure_reason": null,
+      "checked_at": "2026-07-28T19:17:15.648404+00:00",
+      "included_in_playlist": true
     },
     {
       "channel": {
@@ -349,13 +289,13 @@
         "allow_offline": false
       },
       "resolved_url": "https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8",
-      "status": "offline",
-      "http_status": null,
+      "status": "online",
+      "http_status": 200,
       "resolution_error": null,
-      "validation_error": "HTTPSConnectionPool(host='news.cgtn.com', port=443): Max retries exceeded with url: /resource/live/russian/cgtn-r.m3u8 (Caused by NewConnectionError(\"HTTPSConnection(host='news.cgtn.com', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))",
-      "failure_reason": "HTTPSConnectionPool(host='news.cgtn.com', port=443): Max retries exceeded with url: /resource/live/russian/cgtn-r.m3u8 (Caused by NewConnectionError(\"HTTPSConnection(host='news.cgtn.com', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))",
-      "checked_at": "2026-07-28T14:13:41.043339+00:00",
-      "included_in_playlist": false
+      "validation_error": null,
+      "failure_reason": null,
+      "checked_at": "2026-07-28T19:17:15.805628+00:00",
+      "included_in_playlist": true
     },
     {
       "channel": {
@@ -374,7 +314,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-07-28T14:17:01.661168+00:00",
+      "checked_at": "2026-07-28T19:17:15.997889+00:00",
       "included_in_playlist": true
     },
     {
@@ -394,7 +334,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-07-28T14:17:03.127835+00:00",
+      "checked_at": "2026-07-28T19:17:17.363603+00:00",
       "included_in_playlist": true
     },
     {
@@ -414,7 +354,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-07-28T14:17:03.522553+00:00",
+      "checked_at": "2026-07-28T19:17:17.785911+00:00",
       "included_in_playlist": true
     }
   ]
