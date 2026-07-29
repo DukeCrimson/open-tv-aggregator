@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T08:34:02.181495+00:00",
+  "updated_at": "2026-07-29T14:01:41.461435+00:00",
   "total": 17,
   "online": 16,
   "offline": 1,
@@ -13,7 +13,7 @@
       "resolved_url": "https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8",
       "reason": "HTTP status 403",
       "http_status": 403,
-      "checked_at": "2026-07-29T08:33:53.345907+00:00"
+      "checked_at": "2026-07-29T14:01:33.082918+00:00"
     }
   ],
   "channels": [
@@ -34,7 +34,7 @@
       "resolution_error": null,
       "validation_error": "HTTP status 403",
       "failure_reason": "HTTP status 403",
-      "checked_at": "2026-07-29T08:33:53.345907+00:00",
+      "checked_at": "2026-07-29T14:01:33.082918+00:00",
       "included_in_playlist": false
     },
     {
@@ -54,7 +54,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-07-29T08:33:53.919642+00:00",
+      "checked_at": "2026-07-29T14:01:33.769161+00:00",
       "included_in_playlist": true
     },
     {
@@ -74,7 +74,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-07-29T08:33:54.125739+00:00",
+      "checked_at": "2026-07-29T14:01:34.106785+00:00",
       "included_in_playlist": true
     },
     {
@@ -94,7 +94,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-07-29T08:33:54.515297+00:00",
+      "checked_at": "2026-07-29T14:01:34.419021+00:00",
       "included_in_playlist": true
     },
     {
@@ -114,7 +114,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-07-29T08:33:55.195658+00:00",
+      "checked_at": "2026-07-29T14:01:34.680995+00:00",
       "included_in_playlist": true
     },
     {
@@ -134,7 +134,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-07-29T08:33:55.532459+00:00",
+      "checked_at": "2026-07-29T14:01:34.978893+00:00",
       "included_in_playlist": true
     },
     {
@@ -154,7 +154,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-07-29T08:33:55.975883+00:00",
+      "checked_at": "2026-07-29T14:01:35.208302+00:00",
       "included_in_playlist": true
     },
     {
@@ -174,7 +174,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-07-29T08:33:57.724767+00:00",
+      "checked_at": "2026-07-29T14:01:37.264721+00:00",
       "included_in_playlist": true
     },
     {
@@ -194,7 +194,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-07-29T08:33:58.828836+00:00",
+      "checked_at": "2026-07-29T14:01:37.987963+00:00",
       "included_in_playlist": true
     },
     {
@@ -214,7 +214,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-07-29T08:33:59.080593+00:00",
+      "checked_at": "2026-07-29T14:01:38.535730+00:00",
       "included_in_playlist": true
     },
     {
@@ -234,7 +234,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-07-29T08:33:59.237420+00:00",
+      "checked_at": "2026-07-29T14:01:38.759074+00:00",
       "included_in_playlist": true
     },
     {
@@ -254,7 +254,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-07-29T08:33:59.392157+00:00",
+      "checked_at": "2026-07-29T14:01:38.981834+00:00",
       "included_in_playlist": true
     },
     {
@@ -274,7 +274,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-07-29T08:33:59.534078+00:00",
+      "checked_at": "2026-07-29T14:01:39.204902+00:00",
       "included_in_playlist": true
     },
     {
@@ -294,7 +294,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-07-29T08:33:59.692163+00:00",
+      "checked_at": "2026-07-29T14:01:39.427897+00:00",
       "included_in_playlist": true
     },
     {
@@ -314,7 +314,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-07-29T08:33:59.778939+00:00",
+      "checked_at": "2026-07-29T14:01:39.652699+00:00",
       "included_in_playlist": true
     },
     {
@@ -334,7 +334,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-07-29T08:34:01.265654+00:00",
+      "checked_at": "2026-07-29T14:01:40.460024+00:00",
       "included_in_playlist": true
     },
     {
@@ -354,7 +354,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-07-29T08:34:01.760038+00:00",
+      "checked_at": "2026-07-29T14:01:40.994354+00:00",
       "included_in_playlist": true
     }
   ]
