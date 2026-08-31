@@ -29,5 +29,3 @@ https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="cctvplus-2.cn" tvg-name="CCTV+ Channel 2" tvg-logo="" group-title="China" tvg-country="CN",CCTV+ Channel 2
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv4-america.cn" tvg-name="CCTV-4 America" tvg-logo="" group-title="China" tvg-country="CN",CCTV-4 America
-https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
