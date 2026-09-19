@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T02:57:28.214371+00:00",
+  "updated_at": "2026-09-19T10:14:35.404396+00:00",
   "total": 17,
   "online": 15,
   "offline": 2,
@@ -13,7 +13,7 @@
       "resolved_url": "https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8",
       "reason": "HTTP status 503",
       "http_status": 503,
-      "checked_at": "2026-09-19T02:57:20.372736+00:00"
+      "checked_at": "2026-09-19T10:14:29.410479+00:00"
     },
     {
       "id": "cctv4-america",
@@ -23,7 +23,7 @@
       "resolved_url": "https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8",
       "reason": "HTTPSConnectionPool(host='global.cgtn.cicc.media.caton.cloud', port=443): Max retries exceeded with url: /master/cgtn-america.m3u8 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)')))",
       "http_status": null,
-      "checked_at": "2026-09-19T02:57:27.634020+00:00"
+      "checked_at": "2026-09-19T10:14:34.854273+00:00"
     }
   ],
   "channels": [
@@ -44,7 +44,7 @@
       "resolution_error": null,
       "validation_error": "HTTP status 503",
       "failure_reason": "HTTP status 503",
-      "checked_at": "2026-09-19T02:57:20.372736+00:00",
+      "checked_at": "2026-09-19T10:14:29.410479+00:00",
       "included_in_playlist": false
     },
     {
@@ -64,7 +64,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-09-19T02:57:20.633013+00:00",
+      "checked_at": "2026-09-19T10:14:29.589246+00:00",
       "included_in_playlist": true
     },
     {
@@ -84,7 +84,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-09-19T02:57:20.869776+00:00",
+      "checked_at": "2026-09-19T10:14:29.779434+00:00",
       "included_in_playlist": true
     },
     {
@@ -104,7 +104,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-09-19T02:57:21.246070+00:00",
+      "checked_at": "2026-09-19T10:14:29.944258+00:00",
       "included_in_playlist": true
     },
     {
@@ -124,7 +124,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-09-19T02:57:21.479132+00:00",
+      "checked_at": "2026-09-19T10:14:30.175019+00:00",
       "included_in_playlist": true
     },
     {
@@ -144,7 +144,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-09-19T02:57:21.832822+00:00",
+      "checked_at": "2026-09-19T10:14:30.449952+00:00",
       "included_in_playlist": true
     },
     {
@@ -164,7 +164,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-09-19T02:57:22.329324+00:00",
+      "checked_at": "2026-09-19T10:14:30.563112+00:00",
       "included_in_playlist": true
     },
     {
@@ -184,7 +184,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-09-19T02:57:24.217840+00:00",
+      "checked_at": "2026-09-19T10:14:30.880332+00:00",
       "included_in_playlist": true
     },
     {
@@ -204,7 +204,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-09-19T02:57:25.204002+00:00",
+      "checked_at": "2026-09-19T10:14:31.987430+00:00",
       "included_in_playlist": true
     },
     {
@@ -224,7 +224,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-09-19T02:57:25.590743+00:00",
+      "checked_at": "2026-09-19T10:14:32.649113+00:00",
       "included_in_playlist": true
     },
     {
@@ -244,7 +244,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-09-19T02:57:25.734479+00:00",
+      "checked_at": "2026-09-19T10:14:32.880537+00:00",
       "included_in_playlist": true
     },
     {
@@ -264,7 +264,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-09-19T02:57:25.883091+00:00",
+      "checked_at": "2026-09-19T10:14:33.101492+00:00",
       "included_in_playlist": true
     },
     {
@@ -284,7 +284,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-09-19T02:57:26.032119+00:00",
+      "checked_at": "2026-09-19T10:14:33.335402+00:00",
       "included_in_playlist": true
     },
     {
@@ -304,7 +304,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-09-19T02:57:26.183653+00:00",
+      "checked_at": "2026-09-19T10:14:33.557989+00:00",
       "included_in_playlist": true
     },
     {
@@ -324,7 +324,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-09-19T02:57:26.332086+00:00",
+      "checked_at": "2026-09-19T10:14:33.790339+00:00",
       "included_in_playlist": true
     },
     {
@@ -344,7 +344,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-09-19T02:57:27.084672+00:00",
+      "checked_at": "2026-09-19T10:14:34.401371+00:00",
       "included_in_playlist": true
     },
     {
@@ -364,7 +364,7 @@
       "resolution_error": null,
       "validation_error": "HTTPSConnectionPool(host='global.cgtn.cicc.media.caton.cloud', port=443): Max retries exceeded with url: /master/cgtn-america.m3u8 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)')))",
       "failure_reason": "HTTPSConnectionPool(host='global.cgtn.cicc.media.caton.cloud', port=443): Max retries exceeded with url: /master/cgtn-america.m3u8 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)')))",
-      "checked_at": "2026-09-19T02:57:27.634020+00:00",
+      "checked_at": "2026-09-19T10:14:34.854273+00:00",
       "included_in_playlist": false
     }
   ]
