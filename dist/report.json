@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-05T04:56:32.766965+00:00",
+  "updated_at": "2026-11-05T13:55:42.139240+00:00",
   "total": 17,
-  "online": 14,
-  "offline": 3,
-  "playlist_count": 14,
+  "online": 15,
+  "offline": 2,
+  "playlist_count": 15,
   "failures": [
     {
       "id": "taiwanplus-live",
@@ -13,17 +13,7 @@
       "resolved_url": "https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8",
       "reason": "HTTP status 400",
       "http_status": 400,
-      "checked_at": "2026-11-05T04:55:58.095784+00:00"
-    },
-    {
-      "id": "cctvplus-2",
-      "name": "CCTV+ Channel 2",
-      "source_type": "hls",
-      "url": "https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8",
-      "resolved_url": "https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8",
-      "reason": "HTTPSConnectionPool(host='cd-live-stream.news.cctvplus.com', port=443): Max retries exceeded with url: /live/smil:CHANNEL2.smil/playlist.m3u8 (Caused by ConnectTimeoutError(<HTTPSConnection(host='cd-live-stream.news.cctvplus.com', port=443) at 0x707fb743ad80>, 'Connection to cd-live-stream.news.cctvplus.com timed out. (connect timeout=10)'))",
-      "http_status": null,
-      "checked_at": "2026-11-05T04:56:11.858559+00:00"
+      "checked_at": "2026-11-05T13:55:36.647464+00:00"
     },
     {
       "id": "cctv4-america",
@@ -33,7 +23,7 @@
       "resolved_url": "https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8",
       "reason": "HTTPSConnectionPool(host='global.cgtn.cicc.media.caton.cloud', port=443): Max retries exceeded with url: /master/cgtn-america.m3u8 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)')))",
       "http_status": null,
-      "checked_at": "2026-11-05T04:56:32.190893+00:00"
+      "checked_at": "2026-11-05T13:55:41.432804+00:00"
     }
   ],
   "channels": [
@@ -54,7 +44,7 @@
       "resolution_error": null,
       "validation_error": "HTTP status 400",
       "failure_reason": "HTTP status 400",
-      "checked_at": "2026-11-05T04:55:58.095784+00:00",
+      "checked_at": "2026-11-05T13:55:36.647464+00:00",
       "included_in_playlist": false
     },
     {
@@ -74,7 +64,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-11-05T04:55:58.231690+00:00",
+      "checked_at": "2026-11-05T13:55:36.884692+00:00",
       "included_in_playlist": true
     },
     {
@@ -94,7 +84,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-11-05T04:55:58.768664+00:00",
+      "checked_at": "2026-11-05T13:55:37.031359+00:00",
       "included_in_playlist": true
     },
     {
@@ -114,7 +104,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-11-05T04:55:58.915977+00:00",
+      "checked_at": "2026-11-05T13:55:37.255688+00:00",
       "included_in_playlist": true
     },
     {
@@ -134,7 +124,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-11-05T04:55:59.217665+00:00",
+      "checked_at": "2026-11-05T13:55:37.571857+00:00",
       "included_in_playlist": true
     },
     {
@@ -154,7 +144,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-11-05T04:55:59.492240+00:00",
+      "checked_at": "2026-11-05T13:55:37.873539+00:00",
       "included_in_playlist": true
     },
     {
@@ -174,7 +164,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-11-05T04:55:59.944245+00:00",
+      "checked_at": "2026-11-05T13:55:38.093875+00:00",
       "included_in_playlist": true
     },
     {
@@ -194,7 +184,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-11-05T04:56:00.259307+00:00",
+      "checked_at": "2026-11-05T13:55:38.447287+00:00",
       "included_in_playlist": true
     },
     {
@@ -214,7 +204,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-11-05T04:56:00.481428+00:00",
+      "checked_at": "2026-11-05T13:55:39.234030+00:00",
       "included_in_playlist": true
     },
     {
@@ -234,7 +224,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-11-05T04:56:00.640230+00:00",
+      "checked_at": "2026-11-05T13:55:39.604703+00:00",
       "included_in_playlist": true
     },
     {
@@ -254,7 +244,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-11-05T04:56:00.676240+00:00",
+      "checked_at": "2026-11-05T13:55:39.703867+00:00",
       "included_in_playlist": true
     },
     {
@@ -274,7 +264,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-11-05T04:56:00.726126+00:00",
+      "checked_at": "2026-11-05T13:55:39.804256+00:00",
       "included_in_playlist": true
     },
     {
@@ -294,7 +284,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-11-05T04:56:00.763446+00:00",
+      "checked_at": "2026-11-05T13:55:39.910538+00:00",
       "included_in_playlist": true
     },
     {
@@ -314,7 +304,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-11-05T04:56:00.800137+00:00",
+      "checked_at": "2026-11-05T13:55:40.010101+00:00",
       "included_in_playlist": true
     },
     {
@@ -330,11 +320,11 @@
       },
       "resolved_url": "https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8",
       "status": "online",
-      "http_status": 206,
+      "http_status": 200,
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-11-05T04:56:00.836149+00:00",
+      "checked_at": "2026-11-05T13:55:40.108894+00:00",
       "included_in_playlist": true
     },
     {
@@ -349,13 +339,13 @@
         "allow_offline": false
       },
       "resolved_url": "https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8",
-      "status": "offline",
-      "http_status": null,
+      "status": "online",
+      "http_status": 200,
       "resolution_error": null,
-      "validation_error": "HTTPSConnectionPool(host='cd-live-stream.news.cctvplus.com', port=443): Max retries exceeded with url: /live/smil:CHANNEL2.smil/playlist.m3u8 (Caused by ConnectTimeoutError(<HTTPSConnection(host='cd-live-stream.news.cctvplus.com', port=443) at 0x707fb743ad80>, 'Connection to cd-live-stream.news.cctvplus.com timed out. (connect timeout=10)'))",
-      "failure_reason": "HTTPSConnectionPool(host='cd-live-stream.news.cctvplus.com', port=443): Max retries exceeded with url: /live/smil:CHANNEL2.smil/playlist.m3u8 (Caused by ConnectTimeoutError(<HTTPSConnection(host='cd-live-stream.news.cctvplus.com', port=443) at 0x707fb743ad80>, 'Connection to cd-live-stream.news.cctvplus.com timed out. (connect timeout=10)'))",
-      "checked_at": "2026-11-05T04:56:11.858559+00:00",
-      "included_in_playlist": false
+      "validation_error": null,
+      "failure_reason": null,
+      "checked_at": "2026-11-05T13:55:40.959671+00:00",
+      "included_in_playlist": true
     },
     {
       "channel": {
@@ -374,7 +364,7 @@
       "resolution_error": null,
       "validation_error": "HTTPSConnectionPool(host='global.cgtn.cicc.media.caton.cloud', port=443): Max retries exceeded with url: /master/cgtn-america.m3u8 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)')))",
       "failure_reason": "HTTPSConnectionPool(host='global.cgtn.cicc.media.caton.cloud', port=443): Max retries exceeded with url: /master/cgtn-america.m3u8 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)')))",
-      "checked_at": "2026-11-05T04:56:32.190893+00:00",
+      "checked_at": "2026-11-05T13:55:41.432804+00:00",
       "included_in_playlist": false
     }
   ]
