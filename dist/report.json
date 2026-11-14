@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-14T04:46:37.077612+00:00",
+  "updated_at": "2026-11-14T12:54:42.062636+00:00",
   "total": 17,
-  "online": 15,
-  "offline": 2,
-  "playlist_count": 15,
+  "online": 14,
+  "offline": 3,
+  "playlist_count": 14,
   "failures": [
     {
       "id": "taiwanplus-live",
@@ -13,7 +13,17 @@
       "resolved_url": "https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8",
       "reason": "HTTP status 400",
       "http_status": 400,
-      "checked_at": "2026-11-14T04:46:32.259701+00:00"
+      "checked_at": "2026-11-14T12:54:36.438169+00:00"
+    },
+    {
+      "id": "france24-english",
+      "name": "France 24 English",
+      "source_type": "hls",
+      "url": "https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_2300.m3u8",
+      "resolved_url": "https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_2300.m3u8",
+      "reason": "HTTP status 404",
+      "http_status": 404,
+      "checked_at": "2026-11-14T12:54:36.982960+00:00"
     },
     {
       "id": "cctv4-america",
@@ -23,7 +33,7 @@
       "resolved_url": "https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8",
       "reason": "HTTPSConnectionPool(host='global.cgtn.cicc.media.caton.cloud', port=443): Max retries exceeded with url: /master/cgtn-america.m3u8 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1011)')))",
       "http_status": null,
-      "checked_at": "2026-11-14T04:46:36.283086+00:00"
+      "checked_at": "2026-11-14T12:54:41.507478+00:00"
     }
   ],
   "channels": [
@@ -44,7 +54,7 @@
       "resolution_error": null,
       "validation_error": "HTTP status 400",
       "failure_reason": "HTTP status 400",
-      "checked_at": "2026-11-14T04:46:32.259701+00:00",
+      "checked_at": "2026-11-14T12:54:36.438169+00:00",
       "included_in_playlist": false
     },
     {
@@ -64,7 +74,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-11-14T04:46:32.348392+00:00",
+      "checked_at": "2026-11-14T12:54:36.736183+00:00",
       "included_in_playlist": true
     },
     {
@@ -79,13 +89,13 @@
         "allow_offline": false
       },
       "resolved_url": "https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_2300.m3u8",
-      "status": "online",
-      "http_status": 200,
+      "status": "offline",
+      "http_status": 404,
       "resolution_error": null,
-      "validation_error": null,
-      "failure_reason": null,
-      "checked_at": "2026-11-14T04:46:32.434170+00:00",
-      "included_in_playlist": true
+      "validation_error": "HTTP status 404",
+      "failure_reason": "HTTP status 404",
+      "checked_at": "2026-11-14T12:54:36.982960+00:00",
+      "included_in_playlist": false
     },
     {
       "channel": {
@@ -104,7 +114,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-11-14T04:46:33.106467+00:00",
+      "checked_at": "2026-11-14T12:54:37.549146+00:00",
       "included_in_playlist": true
     },
     {
@@ -124,7 +134,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-11-14T04:46:33.259831+00:00",
+      "checked_at": "2026-11-14T12:54:37.797038+00:00",
       "included_in_playlist": true
     },
     {
@@ -144,7 +154,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-11-14T04:46:33.481281+00:00",
+      "checked_at": "2026-11-14T12:54:38.137013+00:00",
       "included_in_playlist": true
     },
     {
@@ -164,7 +174,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-11-14T04:46:33.746165+00:00",
+      "checked_at": "2026-11-14T12:54:38.472465+00:00",
       "included_in_playlist": true
     },
     {
@@ -184,7 +194,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-11-14T04:46:34.088863+00:00",
+      "checked_at": "2026-11-14T12:54:38.859612+00:00",
       "included_in_playlist": true
     },
     {
@@ -204,7 +214,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-11-14T04:46:34.319638+00:00",
+      "checked_at": "2026-11-14T12:54:39.167219+00:00",
       "included_in_playlist": true
     },
     {
@@ -224,7 +234,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-11-14T04:46:34.413019+00:00",
+      "checked_at": "2026-11-14T12:54:39.527409+00:00",
       "included_in_playlist": true
     },
     {
@@ -244,7 +254,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-11-14T04:46:34.613797+00:00",
+      "checked_at": "2026-11-14T12:54:39.627556+00:00",
       "included_in_playlist": true
     },
     {
@@ -264,7 +274,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-11-14T04:46:34.653197+00:00",
+      "checked_at": "2026-11-14T12:54:39.753697+00:00",
       "included_in_playlist": true
     },
     {
@@ -284,7 +294,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-11-14T04:46:34.693851+00:00",
+      "checked_at": "2026-11-14T12:54:39.884587+00:00",
       "included_in_playlist": true
     },
     {
@@ -304,7 +314,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-11-14T04:46:34.730611+00:00",
+      "checked_at": "2026-11-14T12:54:40.012476+00:00",
       "included_in_playlist": true
     },
     {
@@ -324,7 +334,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-11-14T04:46:34.932985+00:00",
+      "checked_at": "2026-11-14T12:54:40.094454+00:00",
       "included_in_playlist": true
     },
     {
@@ -344,7 +354,7 @@
       "resolution_error": null,
       "validation_error": null,
       "failure_reason": null,
-      "checked_at": "2026-11-14T04:46:35.807539+00:00",
+      "checked_at": "2026-11-14T12:54:41.048717+00:00",
       "included_in_playlist": true
     },
     {
@@ -364,7 +374,7 @@
       "resolution_error": null,
       "validation_error": "HTTPSConnectionPool(host='global.cgtn.cicc.media.caton.cloud', port=443): Max retries exceeded with url: /master/cgtn-america.m3u8 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1011)')))",
       "failure_reason": "HTTPSConnectionPool(host='global.cgtn.cicc.media.caton.cloud', port=443): Max retries exceeded with url: /master/cgtn-america.m3u8 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1011)')))",
-      "checked_at": "2026-11-14T04:46:36.283086+00:00",
+      "checked_at": "2026-11-14T12:54:41.507478+00:00",
       "included_in_playlist": false
     }
   ]
